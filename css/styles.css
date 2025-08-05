@@ -8245,9 +8245,19 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.5) !important;
 }
 
+.text-black {
+  --bs-text-opacity: 1;
+  color: rgba(0, 0, 0) !important;
+}
+
 .text-white-50 {
   --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) !important;
+   color: rgba(255, 255, 255, 0.5) !important; 
+}
+
+.text-white {
+  --bs-text-opacity: 1;
+   color: rgba(255, 255, 255) !important; 
 }
 
 .text-reset {
@@ -11112,11 +11122,10 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
-  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  padding-top: 5rem;
 }
 .about-section p {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
 }
 
 .projects-section {
