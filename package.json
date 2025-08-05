@@ -1,0 +1,23 @@
+{
+  "name": "paulgrenyer.com",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/pjgrenyer/css-in-depth#readme",
+  "bugs": {
+    "url": "https://github.com/pjgrenyer/css-in-depth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjgrenyer/css-in-depth.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.html' '**/*.css'"
+  },
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}
