@@ -13098,6 +13098,20 @@ body {
   padding-bottom: 5rem;
 }
 
+.faq-section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.faq-section h3 {
+  margin-top: 3rem;
+}
+
+.faq-section ul {
+  list-style-type: none;
+}
+
+
 .book-section .featured-text {
   padding: 2rem;
 }
