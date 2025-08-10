@@ -13152,7 +13152,7 @@ body {
     "Segoe UI Symbol",
     "Noto Color Emoji";
   font-size: 80%;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 0.15rem;
   border: 0;
 }
