@@ -2,7 +2,7 @@
 # Allow all search engines to index everything
 
 User-agent: *
-Allow: /
+Disallow: /
+Allow: /index.html
 
-# Sitemap location
 Sitemap: https://paulgrenyer.com/sitemap.xml
