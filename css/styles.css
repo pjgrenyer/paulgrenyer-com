@@ -13056,6 +13056,26 @@ body {
   font-size: 1rem;
 }
 
+/* 
+*/
+
+/* .masthead .image-row .image-cell {
+  width: 50%;
+  margin: 5px;
+}
+
+.masthead .image-row .image-cell .img {
+  margin: 5px;
+  border: solid white 1px;
+  max-height: 20rem;
+} */
+
+.masthead .image-row .image-cell .img {
+  margin: 5px;
+  border: solid white 1px;
+  max-width: 90vw;
+}
+
 @media (min-width: 768px) {
 
   .masthead h1,
@@ -13083,6 +13103,22 @@ body {
     max-width: 30rem;
     font-size: 1.25rem;
   }
+
+  .masthead .image-row {
+    display: flex;
+  }
+
+  .masthead .image-row .image-cell {
+    width: 50%;
+    margin: 5px;
+  }
+
+  .masthead .image-row .image-cell .img {
+    margin: 5px;
+    border: solid white 1px;
+    max-height: 15rem;
+  }
+
 }
 
 .about-section {
