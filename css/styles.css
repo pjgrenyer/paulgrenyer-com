@@ -13056,24 +13056,12 @@ body {
   font-size: 1rem;
 }
 
-/* 
-*/
-
-/* .masthead .image-row .image-cell {
-  width: 50%;
-  margin: 5px;
-}
 
 .masthead .image-row .image-cell .img {
   margin: 5px;
   border: solid white 1px;
-  max-height: 20rem;
-} */
-
-.masthead .image-row .image-cell .img {
-  margin: 5px;
-  border: solid white 1px;
-  max-width: 90vw;
+  max-width: 100%;
+  height: auto;
 }
 
 @media (min-width: 768px) {
