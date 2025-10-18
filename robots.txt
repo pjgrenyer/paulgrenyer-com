@@ -4,5 +4,6 @@
 User-agent: *
 Disallow: /
 Allow: /index.html
+Allow: /so-you-think-you-can-lead-a-team.html
 
 Sitemap: https://paulgrenyer.com/sitemap.xml
