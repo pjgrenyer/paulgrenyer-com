@@ -13256,3 +13256,25 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+
+
+.praise-section .praise {
+  padding-bottom: 2rem;
+}
+
+.praise-section .author {
+  text-align: center;
+}
+
+.praise-section .author span {
+  display: block;
+}
+
+.praise-section .author .name {
+  font-style: bold;
+}
+
+.praise-section .author .title {
+  font-style: italic;
+}
