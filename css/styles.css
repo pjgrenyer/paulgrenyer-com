@@ -13278,3 +13278,12 @@ body {
 .praise-section .author .title {
   font-style: italic;
 }
+
+.authors-section .authors span {
+  display: block;
+}
+
+.authors-section .authors span .role {
+  display: inline-block;
+  font-style: italic;
+}
